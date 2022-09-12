@@ -33,15 +33,15 @@ The aim of this research is to propose a model and embedding, which can predict 
 </OL>
 
 # Other Related Reports
-- [SDSHL-An_Introduction_of_Sarcasm_Detection_In_Hinglish_(SDH)_and_Challenges.pdf](https://github.com/dasarpai/DS-Research/blob/main/SDSHL/docs/share/SDSHL-An_Introduction_of_Sarcasm_Detection_In_Hinglish_(SDH)_and_Challenges.pdf)
+- [SDSHL-An_Introduction_of_Sarcasm_Detection_In_Hinglish_(SDH)_and_Challenges.pdf](https://github.com/dasarpai/SDSHL/tree/main/docs/share/SDSHL-An_Introduction_of_Sarcasm_Detection_In_Hinglish_(SDH)_and_Challenges.pdf)
 
-- [SDSHL-Dataset_Cleaning_Steps_for_Hinglish_Language_Corpus.pdf](https://github.com/dasarpai/DS-Research/blob/main/SDSHL/docs/share/SDSHL-Dataset_Cleaning_Steps_for_Hinglish_Language_Corpus.pdf)
+- [SDSHL-Dataset_Cleaning_Steps_for_Hinglish_Language_Corpus.pdf](https://github.com/dasarpai/SDSHL/tree/main/docs/share/SDSHL-Dataset_Cleaning_Steps_for_Hinglish_Language_Corpus.pdf)
 
-- [SDSHL-ElsevierFormat](https://github.com/dasarpai/DS-Research/blob/main/SDSHL/docs/share/SDSHL-ElsevierFormat.pdf)
+- [SDSHL-ElsevierFormat](https://github.com/dasarpai/SDSHL/tree/main/docs/share/SDSHL-ElsevierFormat.pdf)
 
-- [SDSHL-Performance_of_Various_Embedding_and_Classifers.pdf](https://github.com/dasarpai/DS-Research/blob/main/SDSHL/docs/share/SDSHL-Performance_of_Various_Embedding_and_Classifers.pdf)
+- [SDSHL-Performance_of_Various_Embedding_and_Classifers.pdf](https://github.com/dasarpai/SDSHL/tree/main/docs/share/SDSHL-Performance_of_Various_Embedding_and_Classifers.pdf)
 
-- [SHSHL-Literature_Review_on_Sarcasm_Detection_In_Hinglish.pdf](https://github.com/dasarpai/DS-Research/blob/main/SDSHL/docs/share/SHSHL-Literature_Review_on_Sarcasm_Detection_In_Hinglish.pdf)
+- [SHSHL-Literature_Review_on_Sarcasm_Detection_In_Hinglish.pdf](https://github.com/dasarpai/SDSHL/tree/main/docs/share/SHSHL-Literature_Review_on_Sarcasm_Detection_In_Hinglish.pdf)
 
 
 ## Folder Structure
